@@ -10,7 +10,8 @@
 
 # funcionalidade 👨‍💻
 * a funcionalidade do meu site e ajudar as pessoas que quer tirar suas duvidas do site ou que aconteceu um bug. 
-![tela_de_inicio](print.jpeg)
+![tela_de_inicio](print.jpeg)   
+
 um exemplo e como que vai quando você for fazer no seu site!
 
 # Autores 📝
